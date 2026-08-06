@@ -1,0 +1,19 @@
+Job Title: Full Stack Developer
+
+Looking for a Full Stack Developer with 2-4 years of experience building web applications.
+
+Required Skills:
+- JavaScript/TypeScript
+- React or Angular frontend framework
+- Node.js or Python backend
+- SQL and NoSQL databases
+- REST API design
+- Git version control
+
+Nice to have:
+- Docker/Kubernetes
+- AWS services
+- GraphQL
+- CI/CD pipelines
+
+Education: Bachelor's in Computer Science or equivalent experience

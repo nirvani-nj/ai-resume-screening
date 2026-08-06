@@ -1,0 +1,32 @@
+DAVID KIM
+Email: david.kim@email.com | Phone: (555) 876-5432
+
+SUMMARY
+Backend Developer with 4 years of experience designing scalable APIs and microservices. 
+Expert in Java and Spring Boot. Strong database design skills.
+
+WORK EXPERIENCE
+
+Backend Developer | Enterprise Solutions | 2020-Present
+- Designed and implemented microservices architecture using Spring Boot
+- Created RESTful APIs serving 100k+ daily requests
+- Optimized PostgreSQL queries reducing response time by 40%
+- Implemented JWT authentication and authorization
+- Used Docker for containerization and deployment
+
+Software Engineer | TechStart | 2019-2020
+- Developed backend services using Java and Hibernate
+- Wrote unit and integration tests using JUnit
+- Participated in code reviews and documentation
+- Maintained CI/CD pipelines with Jenkins
+
+EDUCATION
+BS in Computer Engineering | Georgia Tech | 2019
+
+TECHNICAL SKILLS
+- Languages: Java, Python, Go
+- Frameworks: Spring Boot, Hibernate, Django
+- Databases: PostgreSQL, MySQL, Redis, MongoDB
+- Cloud: AWS, Google Cloud
+- Tools: Docker, Kubernetes, Jenkins, Git
+- APIs: REST, GraphQL, gRPC

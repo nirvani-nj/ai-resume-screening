@@ -1,0 +1,35 @@
+JOHN SMITH
+Email: john.smith@email.com | Phone: (555) 123-4567
+
+SUMMARY
+Data Scientist with 4 years of experience in machine learning and predictive modeling. 
+Proficient in Python, SQL, and various ML frameworks. Strong background in statistics 
+and data visualization.
+
+WORK EXPERIENCE
+
+Senior Data Analyst | Tech Solutions Inc. | 2021-Present
+- Developed machine learning models to predict customer churn with 85% accuracy
+- Created interactive dashboards using Tableau for executive reporting
+- Implemented Python scripts to automate data processing pipelines
+- Collaborated with cross-functional teams to identify business opportunities
+
+Data Analyst | DataWorks | 2019-2021
+- Analyzed large datasets using SQL and Python
+- Built regression models to forecast sales
+- Presented findings to stakeholders using data visualization
+
+EDUCATION
+MS in Data Science | Stanford University | 2019
+BS in Computer Science | UCLA | 2017
+
+TECHNICAL SKILLS
+- Programming: Python, SQL, R
+- ML/DL: Scikit-learn, TensorFlow, PyTorch
+- Visualization: Tableau, Power BI, Matplotlib
+- Cloud: AWS (S3, EC2), Azure
+- Tools: Git, Jupyter, Docker
+
+CERTIFICATIONS
+- AWS Certified Machine Learning
+- Google Data Analytics Professional

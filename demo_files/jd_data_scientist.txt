@@ -1,0 +1,18 @@
+Job Title: Senior Data Scientist
+
+We are looking for a Data Scientist with 3-5 years of experience in machine learning and data analysis.
+
+Required Skills:
+- Python programming
+- Machine Learning algorithms
+- SQL for data querying
+- Data visualization (Tableau or Power BI)
+- Statistical analysis
+- TensorFlow or PyTorch
+
+Nice to have:
+- Cloud platforms (AWS/Azure)
+- NLP experience
+- Deep Learning
+
+Education: MS or PhD in Computer Science, Statistics, or related field

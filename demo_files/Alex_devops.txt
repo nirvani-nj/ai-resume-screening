@@ -1,0 +1,44 @@
+ALEX THOMPSON
+Email: alex.t@email.com | Phone: (555) 456-7890
+
+SUMMARY
+DevOps Engineer with 4 years of experience in cloud infrastructure and automation. 
+Expert in AWS, Docker, and CI/CD pipelines. Passionate about infrastructure as code 
+and system reliability.
+
+WORK EXPERIENCE
+
+DevOps Engineer | CloudTech Solutions | 2021-Present
+- Designed and implemented AWS infrastructure using Terraform
+- Managed Kubernetes clusters for microservices deployment
+- Created CI/CD pipelines with Jenkins and GitLab CI
+- Reduced deployment time by 70% through automation
+- Implemented monitoring and alerting with Prometheus/Grafana
+
+Systems Engineer | DataCenter Inc. | 2019-2021
+- Maintained Linux servers and virtualized environments
+- Automated routine tasks using Python and Bash scripts
+- Managed Docker containers and orchestration
+- Participated in on-call rotation for incident response
+
+Junior Administrator | WebHost Co. | 2018-2019
+- Assisted with server maintenance and troubleshooting
+- Monitored system performance and alerts
+- Documented system configurations and procedures
+
+EDUCATION
+BS in Information Technology | Virginia Tech | 2018
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect
+- Certified Kubernetes Administrator (CKA)
+- Docker Certified Associate
+
+TECHNICAL SKILLS
+- Cloud: AWS, Azure, GCP
+- Containers: Docker, Kubernetes, ECS
+- CI/CD: Jenkins, GitLab CI, GitHub Actions
+- IaC: Terraform, CloudFormation, Ansible
+- Monitoring: Prometheus, Grafana, ELK Stack
+- Scripting: Python, Bash, PowerShell
+- OS: Linux (Ubuntu, CentOS), Windows Server
