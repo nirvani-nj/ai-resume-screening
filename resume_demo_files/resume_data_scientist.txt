@@ -1,0 +1,11 @@
+JOHN SMITH
+
+Data Scientist with 4 years of experience in machine learning and predictive modeling.
+
+Skills:
+- Python
+- Machine Learning
+- SQL
+- TensorFlow, PyTorch
+- Tableau, Power BI
+- Statistical Analysis

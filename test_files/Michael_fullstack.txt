@@ -1,0 +1,33 @@
+MICHAEL CHEN
+Email: michael.chen@email.com | Phone: (555) 234-5678
+
+SUMMARY
+Full Stack Developer with 3 years of experience building responsive web applications. 
+Proficient in MERN stack and cloud deployment. Passionate about clean code and 
+user experience.
+
+WORK EXPERIENCE
+
+Web Developer | Creative Agency | 2021-Present
+- Developed 5+ full-stack web applications using React and Node.js
+- Designed and implemented RESTful APIs with Express
+- Managed MongoDB databases and optimized queries
+- Deployed applications on AWS EC2 and S3
+- Collaborated with UX designers to implement responsive designs
+
+Junior Developer | StartupHub | 2020-2021
+- Built frontend components using React and Redux
+- Integrated third-party APIs
+- Participated in code reviews and agile ceremonies
+- Fixed bugs and improved application performance
+
+EDUCATION
+BS in Computer Science | University of Washington | 2020
+
+TECHNICAL SKILLS
+- Frontend: React, Angular, HTML5, CSS3, JavaScript, TypeScript
+- Backend: Node.js, Express, Python (Django)
+- Databases: MongoDB, PostgreSQL, MySQL
+- Cloud: AWS (EC2, S3, Lambda), Firebase
+- Tools: Git, Docker, Jenkins, VS Code
+- Testing: Jest, Mocha, Cypress

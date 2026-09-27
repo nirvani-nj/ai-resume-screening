@@ -1,0 +1,33 @@
+SARAH JOHNSON
+Email: sarah.j@email.com | Phone: (555) 987-6543
+
+SUMMARY
+Recent MS graduate in Data Science with internship experience. Strong foundation in 
+Python, machine learning, and statistical analysis. Eager to apply academic knowledge 
+to real-world problems.
+
+EDUCATION
+MS in Data Science | New York University | 2023
+- GPA: 3.8/4.0
+- Coursework: Machine Learning, Deep Learning, Big Data Analytics, Statistical Methods
+
+BS in Mathematics | University of Michigan | 2021
+
+INTERNSHIP EXPERIENCE
+
+Data Science Intern | FinTech Corp | Summer 2022
+- Assisted in building ML models for credit risk assessment
+- Cleaned and preprocessed large datasets using Python
+- Created visualizations to present findings to mentors
+
+PROJECTS
+- House Price Prediction: Built regression model achieving 87% accuracy
+- Sentiment Analysis: NLP project analyzing Twitter data using NLTK
+- Customer Segmentation: K-means clustering on retail data
+
+TECHNICAL SKILLS
+- Python, SQL, R
+- Scikit-learn, TensorFlow, Keras
+- Pandas, NumPy, Matplotlib
+- Tableau, Power BI
+- Git, Jupyter Notebooks

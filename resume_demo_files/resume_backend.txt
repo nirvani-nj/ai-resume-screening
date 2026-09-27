@@ -1,0 +1,9 @@
+DAVID KIM
+
+Backend Developer with 4 years experience.
+
+Skills:
+- Java, Spring Boot
+- REST APIs
+- PostgreSQL
+- Microservices

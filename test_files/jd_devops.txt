@@ -1,0 +1,19 @@
+Job Title: DevOps Engineer
+
+Looking for a DevOps Engineer with 3+ years experience in cloud infrastructure and automation.
+
+Required Skills:
+- Cloud platforms (AWS/Azure/GCP)
+- Container-based deployment systems
+- Orchestration of distributed services
+- Automated deployment workflows
+- Programmable infrastructure provisioning
+- Linux/Unix system management
+- Scripting (Python/Bash)
+
+Nice to have:
+- Monitoring and observability tools
+- Security best practices
+- Microservices architecture
+
+Education: Bachelor's in Computer Science or related field

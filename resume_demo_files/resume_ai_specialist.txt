@@ -1,0 +1,17 @@
+ALEXANDER REED
+
+AI Specialist
+
+AI Engineer with 4 years experience developing intelligent decision-making systems and data-driven predictive solutions.
+
+Skills:
+- Python
+- Neural Networks
+- Deep Learning
+- Data Pipelines
+- Business Intelligence dashboards
+- Cloud platforms (AWS)
+
+Experience:
+- Designed intelligent systems using neural architectures
+- Developed analytics pipelines for large-scale data

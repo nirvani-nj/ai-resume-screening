@@ -1,0 +1,18 @@
+Job Title: Senior Data Scientist
+
+We are looking for a Data Scientist with 3-5 years of experience in predictive modeling and AI-driven analytics.
+
+Required Skills:
+- Python programming
+- Predictive modeling and intelligent systems
+- SQL for data querying
+- Business intelligence dashboards and reporting
+- Quantitative and statistical modeling
+- Deep learning frameworks
+
+Nice to have:
+- Cloud platforms (AWS/Azure)
+- Natural Language Processing (NLP)
+- Advanced neural networks
+
+Education: MS or PhD in Computer Science, Statistics, or related field

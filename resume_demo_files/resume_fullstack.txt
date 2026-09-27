@@ -1,0 +1,9 @@
+MICHAEL CHEN
+
+Full Stack Developer with 3 years experience.
+
+Skills:
+- React, Node.js
+- MongoDB
+- REST APIs
+- AWS

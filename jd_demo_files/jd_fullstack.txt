@@ -1,0 +1,18 @@
+Job Title: Full Stack Developer
+
+We are seeking a Full Stack Developer with experience building scalable web-based applications.
+
+Required Skills:
+- Frontend development using modern JavaScript frameworks
+- Backend service development (Node.js or Python-based systems)
+- Working with relational and non-relational databases
+- Designing and consuming APIs
+- Version control and collaborative development
+
+Nice to have:
+- Cloud-based deployment experience
+- Containerized applications
+- API query languages like GraphQL
+- Continuous integration and deployment
+
+Education: Bachelor's in Computer Science or equivalent experience

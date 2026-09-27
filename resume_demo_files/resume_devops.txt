@@ -1,0 +1,9 @@
+ALEX THOMPSON
+
+DevOps Engineer with 4 years experience in cloud and automation.
+
+Skills:
+- AWS, Docker, Kubernetes
+- CI/CD pipelines
+- Terraform
+- Linux

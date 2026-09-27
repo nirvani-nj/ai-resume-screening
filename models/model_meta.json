@@ -1,0 +1,13 @@
+{
+  "best_model": "SVM",
+  "scores": {
+    "SVM": 0.8824,
+    "NaiveBayes": 0.4118,
+    "RandomForest": 0.8235
+  },
+  "available_models": [
+    "SVM",
+    "NaiveBayes",
+    "RandomForest"
+  ]
+}
