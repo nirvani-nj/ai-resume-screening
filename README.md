@@ -10,9 +10,24 @@ An AI-powered application that ranks resumes against a job description using NLP
 
 - 📄 Upload multiple resumes
 - 💼 Paste a job description
-- 🤖 Resume categorization using Machine Learning
+- 🤖 Resume categorization using Machine Learning (SVM, Random Forest, Naive Bayes compared; best model auto-selected)
 - 🎯 Candidate ranking based on similarity, skills, and experience
+- 🧠 Optional Sentence-BERT semantic similarity
+- 🔍 Explainable scores with matched and missing skills
+- 🎛️ Adjustable scoring weights, required skills, minimum experience, and shortlist threshold
 - 📊 Interactive Streamlit dashboard
+
+---
+
+## ⚙️ How Ranking Works
+
+```
+Similarity = 0.6 × BERT + 0.4 × TF-IDF   (TF-IDF only when BERT is off)
+
+Score = 0.5 × Similarity + 0.3 × Skill Match + 0.2 × Experience
+```
+
+Weights are adjustable in the app.
 
 ---
 
@@ -22,16 +37,13 @@ An AI-powered application that ranks resumes against a job description using NLP
 - Scikit-learn
 - TF-IDF
 - Linear SVM
-- Sentence-BERT
+- Sentence-BERT (all-MiniLM-L6-v2)
 
 **Libraries**
 - Streamlit
 - Pandas
 - NumPy
-- NLTK
 - Plotly
-- PyPDF2
-- pdfplumber
 
 ---
 
@@ -44,6 +56,8 @@ An AI-powered application that ranks resumes against a job description using NLP
 ---
 
 ## 📊 Model Performance
+
+Resume categorization across 25 job categories (stratified 80:20 split):
 
 | Model | Accuracy |
 |-------|---------:|
@@ -79,3 +93,10 @@ cd ai-resume-screening
 pip install -r requirements.txt
 streamlit run app/streamlit_app.py
 ```
+
+---
+
+## 🔮 Future Work
+
+- Improve skill extraction for skills with symbols (C++, C#, Node.js)
+- Add PDF resume parsing, including scanned PDFs via OCR
